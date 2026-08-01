@@ -6,7 +6,7 @@ This solution was triggered by this bug report https://github.com/Mexit/MultiOS-
 # Features
 - Filesystems: exfat, ext4
 - Scan for devices & ISO files ('iso-scan')
-- Provide full debian boot menu
+- Provide full Debian 12 boot menu
 - Supported ISOs: debian-12.15.0-amd64-DVD-1.iso, debian-12.15.0-amd64-netinst.iso, debian-live-12.15.0-amd64-cinnamon.iso, debian-live-12.15.0-amd64-gnome.iso, debian-live-12.15.0-amd64-kde.iso, debian-live-12.15.0-amd64-lxde.iso, debian-live-12.15.0-amd64-lxqt.iso, debian-live-12.15.0-amd64-mate.iso, debian-live-12.15.0-amd64-standard.iso, debian-live-12.15.0-amd64-xfce.iso.
 
 # Usage
